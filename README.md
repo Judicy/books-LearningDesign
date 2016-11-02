@@ -32,4 +32,4 @@
 
 11、《[U一点·料](https://book.douban.com/subject/26594029/)》
 
-12、《[设计之下](https://book.douban.com/subject/25817190/)》
+12、《[设计之下](https://book.douban.com/subject/25817190/)》腾讯新闻客户端UED团队编写的，分别从交互设计和界面设计两方面描述了在具体的设计工作中的流程和注意事项，以及如何在团队中成为一个good designer。
