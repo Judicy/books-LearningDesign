@@ -20,7 +20,7 @@
 
 6、《[文字设计](https://book.douban.com/subject/25812965/)》
 
-8、《[design and code](https://designcode.io/)》
+8、《[design and code](https://designcode.io/)》这是一本电子书，[书籍地址](https://designcode.io/)，全书分为两大版块，设计和开发，作者从颜色、布局、设计规范等各方面讲述了如何用sketch进行设计，内容较为基础，重在实操，并且从设计师的角度讲了如何用xcode进行简单的开发。这本书也在一直更新中…
 
 7、《[设计中的设计 | 全本](https://book.douban.com/subject/4230237/)》
 
